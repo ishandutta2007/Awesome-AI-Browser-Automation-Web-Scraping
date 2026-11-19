@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Browser-Automation-Web-Scraping/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Browser-Automation-Web-Scraping?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Browser-Automation-Web-Scraping/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Browser-Automation-Web-Scraping?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Browser-Automation-Web-Scraping/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Browser-Automation-Web-Scraping?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Browser-Automation-Web-Scraping/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Browser-Automation-Web-Scraping?style=flat-square" alt="GitHub Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Browser-Automation-Web-Scraping/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Browser-Automation-Web-Scraping?style=flat-square&color=success" alt="License"/></a>
@@ -84,9 +84,9 @@ The following SaaS and managed cloud platforms deliver managed browser infrastru
 
 ## 💻 Open-Source GitHub Projects
 
-The premier open-source frameworks, headless browsers, LLM scrapers, and anti-detect tools. Sorted in descending order by **GitHub Star Count**:
+The premier open-source frameworks, headless browsers, LLM scrapers, and anti-detect tools. Sorted in descending order by **GitHub Stars_Count**:
 
-| 📦 Repository | ⭐ Stars | 🛡️ License | 📝 Overview & Core Capabilities |
+| 📦 Repository | ⭐ GitHub_Stars | 🛡️ License | 📝 Overview & Core Capabilities |
 | :--- | :---: | :---: | :--- |
 | **[mendableai/firecrawl](https://github.com/mendableai/firecrawl)** | <a href="https://github.com/mendableai/firecrawl/stargazers"><img src="https://img.shields.io/github/stars/mendableai/firecrawl?style=social&color=white" alt="Stars"/></a> | `AGPL-3.0` | 🔥 High-speed web data API and crawler that turns entire dynamic websites into clean, LLM-ready Markdown, sitemaps, and structured JSON schemas. |
 | **[browser-use/browser-use](https://github.com/browser-use/browser-use)** | <a href="https://github.com/browser-use/browser-use/stargazers"><img src="https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white" alt="Stars"/></a> | `MIT` | 🕹️ Leading open-source Python agent enabling LLMs to navigate, click, input, and interact autonomously with websites via indexed DOM trees and vision models. |
@@ -142,7 +142,7 @@ We welcome additions, corrections, and tool submissions! To contribute:
 
 1. **Fork** this repository.
 2. Create a new branch: `git checkout -b feature/add-new-tool`.
-3. Add the project to the appropriate table, ensuring factual descriptions, verified starting prices, exact free tier limits, or GitHub star counts.
+3. Add the project to the appropriate table, ensuring factual descriptions, verified starting prices, exact free tier limits, or GitHub Stars_Counts.
 4. Open a **Pull Request** detailing the addition and official links.
 
 ---
